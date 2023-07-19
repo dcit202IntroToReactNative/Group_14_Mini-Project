@@ -8,10 +8,10 @@ In addition to appointment booking, Clinics also offers an emergency contact fea
 The Clinics provides a user-friendly interface, allowing users to navigate effortlessly through the various features and functionalities. With Clinics, users can take control of their healthcare needs by easily booking appointments and accessing emergency services whenever necessary. It serves as a reliable companion for individuals seeking efficient and accessible healthcare services right at their fingertips.
 
 <h2>Features 🔧🔗<h2>
-<h4> Appointment Booking
+<h4><p2> Appointment Booking
  Toast Message Display for successful booking and errors
  Slide left to display menu
- Displaying a list of available doctors<h4>
+ Displaying a list of available doctors<p><h4>
 
   <h2>Team Roles<h2>
 
