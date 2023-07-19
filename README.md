@@ -14,4 +14,16 @@ The Clinics provides a user-friendly interface, allowing users to navigate effor
  Displaying a list of available doctors<p><h4>
 
   <h2>Team Roles<h2>
+  Usernames              |            Role
+_______________________|_________________________
+ayyesu                 | Services Activities and project modification
+Bright312              | Appointment and Doctor Activities
+FelixAshong            | Project Platform and Review
+sfodofe                | Project Documentation
+Martin-Amoah           | Home Activity
+underagee              | Code Inspector
+Ameyyaw                | Project Documentation
+StanleyHinson          | Project Documentation
+Kveonn                 | Contact Activity
+vintageparasite        | Project Documentation
 
