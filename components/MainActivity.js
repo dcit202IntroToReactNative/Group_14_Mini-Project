@@ -4,36 +4,6 @@ import {Appbar, Drawer, DrawerItem, Divider} from 'react-native-paper';
 import {NavigationContainer} from '@react-navigation/native';
 import {createDrawerNavigator} from '@react-navigation/drawer';
 
-const HomeScreen = () => (
-    <View style={{flex: 1, alignItems: 'center', justifyContent: 'center'}}>
-        <Text>Home Screen</Text>
-    </View>
-);
-
-const ServicesScreen = () => (
-    <View style={{flex: 1, alignItems: 'center', justifyContent: 'center'}}>
-        <Text>Services Screen</Text>
-    </View>
-);
-
-const AppointmentsScreen = () => (
-    <View style={{flex: 1, alignItems: 'center', justifyContent: 'center'}}>
-        <Text>Appointments Screen</Text>
-    </View>
-);
-
-const DoctorsScreen = () => (
-    <View style={{flex: 1, alignItems: 'center', justifyContent: 'center'}}>
-        <Text>Doctors Screen</Text>
-    </View>
-);
-
-const ContactScreen = () => (
-    <View style={{flex: 1, alignItems: 'center', justifyContent: 'center'}}>
-        <Text>Contact Screen</Text>
-    </View>
-);
-
 const DrawerContent = ({navigation}) => (
     <View style={{flex: 1}}>
         <Drawer.Section>
