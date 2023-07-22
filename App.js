@@ -1,15 +1,8 @@
-import {StyleSheet, Text, View} from 'react-native';
-import MainActivity from './components/MainActivity';
+import React from 'react';
+import MainContainer from './navigation/MainContainer';
 
-export default function App() {
-    return <MainActivity />;
+function App() {
+    return <MainContainer />;
 }
 
-const styles = StyleSheet.create({
-    container: {
-        flex: 1,
-        backgroundColor: '#fff',
-        alignItems: 'center',
-        justifyContent: 'center',
-    },
-});
+export default App;
