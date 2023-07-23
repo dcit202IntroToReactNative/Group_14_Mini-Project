@@ -12,18 +12,11 @@ The Clinics app offers a user-friendly interface, allowing users to navigate eff
 
 
 ## Project Features 🔧🔗
-  <h4>
-    <p>
-      <ul>
-        <li>
-          <dt> <input type="checkbox"> Appointment Booking </dt>
-          <li><dt> <input type="checkbox"> ToastAndroid Display for successful booking and errors</dt></li>
-          <li><dt> <input type="checkbox"> Component Navigation </dt></li>
-          <li><dt> <input type="checkbox"> Linking module for calling and sending emails explicitly</dt></li>
-        </li>
-      </ul>
-    </p>
-  </h4>
+- [x] Appointment Booking
+- [x] ToastAndroid Display for successful booking and errors
+- [x] Component Navigation
+- [x] Linking module for calling and sending emails explicitly
+
   
 <h2>Team Roles</h2>
 <p>
