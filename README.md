@@ -1,4 +1,4 @@
-<h1>CLINICS 👨‍⚕️🧑‍⚕️<h1>
+  <h1>CLINICS 👨‍⚕️🧑‍⚕️<h1>
 <h4><p></p>Clinics is an Android application designed to provide users with convenient access to healthcare services. With this app, users can easily book appointments for various medical services and have the ability to contact hospitals in case of emergencies. The primary feature of the Clinics app is the appointment booking system. Users can browse through a list of available healthcare providers, including clinics, hospitals, and specialist doctors.<p><h4>
 
 They can view detailed profiles of each healthcare provider, such as their specialties, qualifications, and patient reviews. Once the user selects a healthcare provider, they can check the provider's availability and book an appointment for a specific date and time that suits their needs.
@@ -12,8 +12,8 @@ The Clinics provides a user-friendly interface, allowing users to navigate effor
 <p>
   <table>
   <tr>
-    <tr>Usernames</tr>
-    <tr>Role</tr>
+    <th>Usernames</th>
+    <th>Role</th>
   </tr>  
   </table>
 </p>
