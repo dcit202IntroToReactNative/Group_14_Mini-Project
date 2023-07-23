@@ -19,65 +19,18 @@ The Clinics app offers a user-friendly interface, allowing users to navigate eff
 
   
 ## Team Roles
-<p>
-  <table>
-  <tr>
-    <th>Usernames</th>
-    <th>Role</th>
-  </tr> 
-    
-  <tr>
-    <td>ayyesu </td>
-    <td>ServicesScreen Component and project modification</td>
-  </tr>
-
- <tr>
-    <td>Bright312 </td>
-    <td>AppointmentScreen and Doctor Component</td>
-  </tr>
-
-   <tr>
-    <td>FelixAshong  </td>
-    <td>Project Platform and Review</td>
-  </tr>
-
-  <tr>
-    <td>Martin-Amoah </td>
-    <td>HomeScreen, DoctorScreen Component</td>
-  </tr>
-
-  <tr>
-    <td>underagee </td>
-    <td>Code Inspector</td>
-  </tr>
-
- <tr>
-    <td>Kveonn  </td>
-    <td>DoctorsScreen Component</td>
-  </tr>
-  
-  <tr>
-    <td>StanleyHinson </td>
-    <td>Project Documentation</td>
-  </tr>
-
-  <tr>
-    <td>Ameyyaw </td>
-    <td>Project Documentation</td>
-  </tr>
-
-  <tr>
-    <td>vintageparasite </td>
-    <td>Project Documentation</td>
-  </tr>
-
-  <tr>
-    <td>sfodofe </td>
-    <td>Project Documentation</td>
-  </tr>
-
-  </table>
-</p>
+| Usernames     | Role                                                |
+|---------------|-----------------------------------------------------|
+| ayyesu        | ServicesScreen Component and project modification   |
+| Bright312     | AppointmentScreen and Doctor Component              |
+| FelixAshong   | Project Platform and Review                         |
+| Martin-Amoah  | HomeScreen, DoctorScreen Component                  |
+| underagee     | Code Inspector                                      | 
+| Kveonn        | DoctorsScreen Component                             |
+| StanleyHinson | Project Documentation                               |
+| Ameyyaw       | Project Documentation                               |
+| vintageparasite | Project Documentation                             |
+| sfodofe       | Project Documentation                               |
 
 <h2>Project Team 👨‍👧‍👦</h2>
 
