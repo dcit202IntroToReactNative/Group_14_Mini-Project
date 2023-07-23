@@ -70,19 +70,26 @@ The Clinics provides a user-friendly interface, allowing users to navigate effor
 </p>
 
 <h2>Team 👨‍👧‍👦</h2>
-<p>
-<p>FelixAshong - 10961725</p>
-<p>Bright312 - 10973283</p>
 
-ayyesu - 10969867
-underagee - 10965214
-StanleyHinson - 10954877
-vintageparasite -10972448
-Martin-Amoah - 10980029
-sfodofe - 10972364
-Ameyyaw - 10973161
-Kveonn - 10953117
-</p>
+<p>1. FelixAshong - 10961725</p>
+<p>2. ayyesu - 10969867</p>
+<p>3. underagee - 10965214</p>
+<p>4. StanleyHinson - 10954877</p>
+<p>5. vintageparasite -10972448</p>
+<p>6. Martin-Amoah - 10980029</p>
+<p>7. Ameyyaw - 10973161</p>
+<p>8. Kveonn - 10953117</p>
+<p>9. sfodofe - 10972364</p>
+<p>10. Bright312 - 10973283</p>
+
+
+
+
+
+
+
+
+
 
 
 
