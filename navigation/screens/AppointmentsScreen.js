@@ -83,7 +83,10 @@ const AppointmentsScreen = () => {
                         label='Dr. Daniel Kissiedu'
                         value='Dr. Daniel Kissiedu'
                     />
-                    <Picker.Item label='Doctor 2' value='Doctor 2' />
+                    <Picker.Item
+                        label='Dr. Felix Ashong'
+                        value='Dr. Felix Ashong'
+                    />
                     <Picker.Item label='Doctor 3' value='Doctor 3' />
                     {/* Add more items based on your requirements */}
                 </Picker>
