@@ -18,7 +18,7 @@ The Clinics app offers a user-friendly interface, allowing users to navigate eff
 - [x] Linking module for calling and sending emails explicitly
 
   
-<h2>Team Roles</h2>
+## Team Roles
 <p>
   <table>
   <tr>
