@@ -60,7 +60,7 @@
 
  <tr>
     <td>Kveonn  </td>
-    <td>Contact Component</td>
+    <td>ContactScreen Component</td>
   </tr>
   
   <tr>
