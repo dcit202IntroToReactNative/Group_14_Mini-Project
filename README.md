@@ -74,17 +74,16 @@ The Clinics provides a user-friendly interface, allowing users to navigate effor
 <ol>
   <li>FelixAshong - 10961725</li>
   <li>ayyesu - 10969867</li>
-</ol>
-<p>1. </p>
-<p>2. ayyesu - 10969867</p>
-<p>3. underagee - 10965214</p>
-<p>4. StanleyHinson - 10954877</p>
-<p>5. vintageparasite -10972448</p>
-<p>6. Martin-Amoah - 10980029</p>
-<p>7. Ameyyaw - 10973161</p>
-<p>8. Kveonn - 10953117</p>
-<p>9. sfodofe - 10972364</p>
-<p>10. Bright312 - 10973283</p>
+  <li>underagee - 10965214</li>
+  <li>StanleyHinson - 10954877</li>
+  <li>vintageparasite -10972448</li>
+  <li>Martin-Amoah - 10980029</li>
+  <li>Ameyyaw - 10973161</li>
+  <li> Kveonn - 10953117</li>
+  <li>Bright312 - 10973283</li>
+  <li>sfodofe - 10972364</li>
+  
+
 
 
 
