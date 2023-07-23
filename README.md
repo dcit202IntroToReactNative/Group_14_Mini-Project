@@ -3,7 +3,7 @@
 <h4>
   <p>Clinics is an Android application designed to provide users with convenient access to healthcare services. With this app, users can easily book appointments for various medical services and have the ability to contact hospitals in case of emergencies. The primary feature of the Clinics app is the appointment booking system. Users can browse through a list of available healthcare providers, including clinics, hospitals, and specialist doctors.</p>
   
-  <p>They can view detailed profiles of each healthcare provider, such as their specialties, qualifications, and patient reviews. Once the user selects a healthcare provider, they can check the provider's availability and book an appointment for a specific date and time that suits their needs.</p>
+  <p>They can see comprehensive profiles of each healthcare professional, which include information about their specialty, education, and patient feedback. Once the user has decided on a healthcare professional, they can check their schedule and make an appointment for a time and date that work for them.</p>
   
   <p>Clinics provides an emergency contact service in addition to appointment scheduling. A list of surrounding hospitals and emergency medical services is easily accessible to users. Users can send an instant message or make a phone call to the hospital by tapping on its contact information in the event of a medical emergency.</p>
 
@@ -50,7 +50,7 @@
 
   <tr>
     <td>Martin-Amoah </td>
-    <td>Home Component</td>
+    <td>HomeScreen Component</td>
   </tr>
 
   <tr>
