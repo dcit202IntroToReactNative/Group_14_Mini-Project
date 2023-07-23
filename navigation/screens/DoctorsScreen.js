@@ -36,7 +36,7 @@ const doctorsData = [
     {
         id: '6',
         name: 'Dr. Martin Amoah',
-        position: 'Psychiatry',
+        position: 'Neurologist',
         profilePicture: require('../../assets/doctor6.jpg'),
     },
 ];
