@@ -62,11 +62,16 @@ const AppointmentsScreen = () => {
                         borderColor: '#5D4037',
                         minHeight: 48,
                         marginBottom: 8,
+                        borderRadius: 10,
                         paddingHorizontal: 12,
                     }}
                 />
                 <Text
-                    style={{fontSize: 15, fontWeight: 'bold', marginBottom: 8}}
+                    style={{
+                        fontSize: 15,
+                        fontWeight: 'bold',
+                        marginBottom: 8,
+                    }}
                 >
                     Select doctor
                 </Text>
@@ -77,6 +82,8 @@ const AppointmentsScreen = () => {
                         borderWidth: 1,
                         borderColor: '#5D4037',
                         marginBottom: 8,
+                        borderRadius: 10,
+                        padding: 8,
                     }}
                 >
                     <Picker.Item
@@ -104,11 +111,6 @@ const AppointmentsScreen = () => {
                         value='Dr. Martin Amoah'
                     />
                 </Picker>
-                <Text
-                    style={{fontSize: 15, fontWeight: 'bold', marginBottom: 8}}
-                >
-                    Time
-                </Text>
                 <Text
                     style={{fontSize: 15, fontWeight: 'bold', marginBottom: 8}}
                 >
