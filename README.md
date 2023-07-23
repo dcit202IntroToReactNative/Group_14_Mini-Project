@@ -11,7 +11,7 @@ The Clinics app offers a user-friendly interface, allowing users to navigate eff
 
 
 
-<h2>Project Features 🔧🔗<h2>
+## Project Features 🔧🔗
   <h4>
     <p>
       <ul>
