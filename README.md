@@ -60,7 +60,7 @@
 
  <tr>
     <td>Kveonn  </td>
-    <td>Contact Activity</td>
+    <td>Contact Component</td>
   </tr>
   
   <tr>
