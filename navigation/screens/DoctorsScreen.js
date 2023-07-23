@@ -33,6 +33,12 @@ const doctorsData = [
         position: 'Psychiatry',
         profilePicture: require('../../assets/doctor5.png'),
     },
+    {
+        id: '6',
+        name: 'Dr. Martin Amoah',
+        position: 'Psychiatry',
+        profilePicture: require('../../assets/doctor5.png'),
+    },
 ];
 
 const DoctorsScreen = () => {
