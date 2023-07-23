@@ -25,13 +25,13 @@ const doctorsData = [
         id: '4',
         name: 'Dr. Samuel Osei Boakye Junior',
         positions: 'Anesthesiology',
-        profilePicture: require('../../assets/doctor4.png'),
+        profilePicture: require('../../assets/doctor4.PNG'),
     },
     {
         id: '5',
         name: 'Randy Adu-Ameyaw',
         position: 'Psychiatry',
-        profilePicture: require('../../assets/doctor5.png'),
+        profilePicture: require('../../assets/doctor5.jpg'),
     },
 ];
 
