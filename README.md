@@ -86,7 +86,7 @@
   </table>
 </p>
 
-<h2>Team 👨‍👧‍👦</h2>
+<h2>Project Team 👨‍👧‍👦</h2>
 
 <ol>
   <li>FelixAshong - 10961725</li>
