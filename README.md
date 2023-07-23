@@ -69,6 +69,19 @@ The Clinics provides a user-friendly interface, allowing users to navigate effor
   </table>
 </p>
 
+<h2>Team 👨‍👧‍👦</h2>
+<p>
+FelixAshong - 10961725
+Bright312 - 10973283
+ayyesu - 10969867
+underagee - 10965214
+StanleyHinson - 10954877
+vintageparasite -10972448
+Martin-Amoah - 10980029
+sfodofe - 10972364
+Ameyyaw - 10973161
+Kveonn - 10953117
+</p>
 
 
 
