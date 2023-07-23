@@ -50,7 +50,7 @@
 
   <tr>
     <td>Martin-Amoah </td>
-    <td>Home Activity</td>
+    <td>Home Component</td>
   </tr>
 
   <tr>
