@@ -16,13 +16,13 @@ const doctorsData = [{
     },
     {
         id: '3',
-        name: 'Dr. Samuel Agyei',
+        name: 'Dr. Bright Quaye',
         position: 'Dermatologist',
         profilePicture: require('../../assets/doctor3.jpeg'),
     },
     {
         id: '4',
-        name: '<NAME>',
+        name: 'Dr. Samuel Osei Boakye Junior',
         positions: 'Anesthesiology',
         profilePicture: require('../../assets/doctor4.jpg'),
     }
@@ -36,15 +36,14 @@ const DoctorsScreen = () => {
         />
     );
 
-    return ( <
-        View style = { styles.container } >
+    return ( < View style = { styles.container } >
         <
         FlatList data = { doctorsData }
         renderItem = { renderDoctorCard }
         keyExtractor = {
-            (item) => item.id }
-        /> <
-        /View>
+            (item) => item.id
+        }
+        /> </View >
     );
 };
 
