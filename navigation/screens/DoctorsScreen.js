@@ -1,9 +1,8 @@
 import React from 'react';
-import {View, FlatList, StyleSheet} from 'react-native';
+import { View, FlatList, StyleSheet } from 'react-native';
 import DoctorCard from './DoctorCard';
 
-const doctorsData = [
-    {
+const doctorsData = [{
         id: '1',
         name: 'Dr. Daniel Kissiedu',
         position: 'Cardiologist',
@@ -21,25 +20,31 @@ const doctorsData = [
         position: 'Dermatologist',
         profilePicture: require('../../assets/doctor3.jpeg'),
     },
+    {
+        id: '4',
+        name: '<NAME>',
+        positions: 'Anesthesiology',
+        profilePicture: require('../../assets/doctor4.jpg'),
+    }
 ];
 
 const DoctorsScreen = () => {
-    const renderDoctorCard = ({item}) => (
-        <DoctorCard
-            name={item.name}
-            position={item.position}
-            profilePicture={item.profilePicture}
+    const renderDoctorCard = ({ item }) => ( <
+        DoctorCard name = { item.name }
+        position = { item.position }
+        profilePicture = { item.profilePicture }
         />
     );
 
-    return (
-        <View style={styles.container}>
-            <FlatList
-                data={doctorsData}
-                renderItem={renderDoctorCard}
-                keyExtractor={(item) => item.id}
-            />
-        </View>
+    return ( <
+        View style = { styles.container } >
+        <
+        FlatList data = { doctorsData }
+        renderItem = { renderDoctorCard }
+        keyExtractor = {
+            (item) => item.id }
+        /> <
+        /View>
     );
 };
 
