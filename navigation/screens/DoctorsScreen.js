@@ -25,11 +25,11 @@ const doctorsData = [
         id: '4',
         name: 'Dr. Samuel Osei Boakye Junior',
         positions: 'Anesthesiology',
-        profilePicture: require('../../assets/doctor4.PNG'),
+        profilePicture: require('../../assets/doctor4.jpg'),
     },
     {
         id: '5',
-        name: 'Randy Adu-Ameyaw',
+        name: 'Dr. Randy Adu-Ameyaw',
         position: 'Psychiatry',
         profilePicture: require('../../assets/doctor5.jpg'),
     },
@@ -56,7 +56,7 @@ const DoctorsScreen = () => {
                 data={doctorsData}
                 renderItem={renderDoctorCard}
                 keyExtractor={(item) => item.id}
-            />{' '}
+            />
         </View>
     );
 };
