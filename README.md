@@ -26,7 +26,46 @@ The Clinics provides a user-friendly interface, allowing users to navigate effor
     <td>Appointment and Doctor Activities</td>
   </tr>
 
+   <tr>
+    <td>FelixAshong  </td>
+    <td>Project Platform and Review</td>
+  </tr>
+
+  <tr>
+    <td>Martin-Amoah </td>
+    <td>Home Activity</td>
+  </tr>
+
+  <tr>
+    <td>underagee </td>
+    <td>Code Inspector</td>
+  </tr>
+
+ <tr>
+    <td>Kveonn  </td>
+    <td>Contact Activity</td>
+  </tr>
   
+  <tr>
+    <td>StanleyHinson </td>
+    <td>Project Documentation</td>
+  </tr>
+
+  <tr>
+    <td>Ameyyaw </td>
+    <td>Project Documentation</td>
+  </tr>
+
+  <tr>
+    <td>vintageparasite </td>
+    <td>Project Documentation</td>
+  </tr>
+
+  <tr>
+    <td>sfodofe </td>
+    <td>Project Documentation</td>
+  </tr>
+
   </table>
 </p>
 
