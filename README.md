@@ -71,7 +71,11 @@ The Clinics provides a user-friendly interface, allowing users to navigate effor
 
 <h2>Team 👨‍👧‍👦</h2>
 
-<p>1. FelixAshong - 10961725</p>
+<ol>
+  <li>FelixAshong - 10961725</li>
+  <li>ayyesu - 10969867</li>
+</ol>
+<p>1. </p>
 <p>2. ayyesu - 10969867</p>
 <p>3. underagee - 10965214</p>
 <p>4. StanleyHinson - 10954877</p>
