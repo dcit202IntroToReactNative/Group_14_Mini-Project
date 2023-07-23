@@ -17,9 +17,9 @@
       <ul>
         <li>
           <dt> <input type="checkbox"> Appointment Booking </dt>
-          <dt> <input type="checkbox"> Toast Message Display for successful booking and errors</dt>
-          <dt> <input type="checkbox"> Slide left to display menu </dt>
-          <dt> <input type="checkbox"> Slide left to display menu </dt>
+          <li><dt> <input type="checkbox"> Toast Message Display for successful booking and errors</dt></li>
+          <li><dt> <input type="checkbox"> Slide left to display menu </dt></li>
+          <li><dt> <input type="checkbox"> Slide left to display menu </dt></li>
         </li>
       </ul>
     </p>
