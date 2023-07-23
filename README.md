@@ -14,7 +14,19 @@ The Clinics provides a user-friendly interface, allowing users to navigate effor
   <tr>
     <th>Usernames</th>
     <th>Role</th>
-  </tr>  
+  </tr> 
+    
+  <tr>
+    <td>ayyesu </td>
+    <td>Services Activities and project modification</td>
+  </tr>
+
+ <tr>
+    <td>Bright312 </td>
+    <td>Appointment and Doctor Activities</td>
+  </tr>
+
+  
   </table>
 </p>
 
