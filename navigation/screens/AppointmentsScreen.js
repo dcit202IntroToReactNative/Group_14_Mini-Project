@@ -91,7 +91,14 @@ const AppointmentsScreen = () => {
                         label='Dr. Bright Quaye'
                         value='Dr. Bright Quaye'
                     />
-                    {/* Add more items based on your requirements */}
+                    <Picker.Item
+                        label='Dr. Samuel Osei Boakye Junior'
+                        value='Dr. Samuel Osei Boakye Junior'
+                    />
+                    <Picker.Item
+                        label='Dr. Randy Adu-Ameyaw'
+                        value='Dr. Randy Adu-Ameyaw'
+                    />
                 </Picker>
                 <Text
                     style={{fontSize: 15, fontWeight: 'bold', marginBottom: 8}}
