@@ -71,8 +71,9 @@ The Clinics provides a user-friendly interface, allowing users to navigate effor
 
 <h2>Team 👨‍👧‍👦</h2>
 <p>
-FelixAshong - 10961725
-Bright312 - 10973283
+<p>FelixAshong - 10961725</p>
+<p>Bright312 - 10973283</p>
+
 ayyesu - 10969867
 underagee - 10965214
 StanleyHinson - 10954877
