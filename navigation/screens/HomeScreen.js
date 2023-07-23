@@ -40,7 +40,7 @@ const styles = StyleSheet.create({
         alignItems: 'center',
     },
     contentContainer: {
-        backgroundColor: 'rgba(0, 0, 0, 0.7)', // Add a semi-transparent black overlay on the background image
+        backgroundColor: 'rgba(0, 0, 0, 0.7)',
         padding: 20,
         borderRadius: 10,
         maxWidth: 350,
