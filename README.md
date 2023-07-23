@@ -11,7 +11,7 @@
 </h4>
 
 
-<h2>Features 🔧🔗<h2>
+<h2>Project Features 🔧🔗<h2>
   <h4>
     <p>
       <ul>
