@@ -50,7 +50,7 @@
 
   <tr>
     <td>Martin-Amoah </td>
-    <td>HomeScreen Component</td>
+    <td>HomeScreen, DoctorScreen Component</td>
   </tr>
 
   <tr>

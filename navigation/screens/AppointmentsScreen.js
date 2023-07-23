@@ -110,6 +110,7 @@ const AppointmentsScreen = () => {
                     style={{
                         borderWidth: 1,
                         borderColor: '#808080',
+                        minHeight: 50,
                         marginBottom: 8,
                         paddingHorizontal: 12,
                     }}
