@@ -5,7 +5,7 @@
   
   <p>They can view detailed profiles of each healthcare provider, such as their specialties, qualifications, and patient reviews. Once the user selects a healthcare provider, they can check the provider's availability and book an appointment for a specific date and time that suits their needs.</p>
   
-  <p>In addition to appointment booking, Clinics also offers an emergency contact feature. Users can quickly access a list of nearby hospitals and emergency medical services. In case of a medical emergency, users can tap on the hospital's contact information to initiate a call or send an instant message to request immediate medical assistance.</p>
+  <p>Clinics provides an emergency contact service in addition to appointment scheduling. A list of surrounding hospitals and emergency medical services is easily accessible to users. Users can send an instant message or make a phone call to the hospital by tapping on its contact information in the event of a medical emergency.</p>
 
   <p>The Clinics provides a user-friendly interface, allowing users to navigate effortlessly through the various features and functionalities. With Clinics, users can take control of their healthcare needs by easily booking appointments and accessing emergency services whenever necessary. It serves as a reliable companion for individuals seeking efficient and accessible healthcare services right at their fingertips.</p>
 </h4>
