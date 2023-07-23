@@ -35,12 +35,12 @@
     
   <tr>
     <td>ayyesu </td>
-    <td>Services Component and project modification</td>
+    <td>ServicesScreen Component and project modification</td>
   </tr>
 
  <tr>
     <td>Bright312 </td>
-    <td>Appointment and Doctor Component</td>
+    <td>AppointmentScreen and Doctor Component</td>
   </tr>
 
    <tr>
