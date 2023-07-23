@@ -32,25 +32,18 @@ The Clinics app offers a user-friendly interface, allowing users to navigate eff
 | vintageparasite | Project Documentation                             |
 | sfodofe       | Project Documentation                               |
 
-<h2>Project Team 👨‍👧‍👦</h2>
+## Project Team 👨‍👧‍👦
 
-<ol>
-  <li>FelixAshong - 10961725</li>
-  <li>ayyesu - 10969867</li>
-  <li>underagee - 10965214</li>
-  <li>StanleyHinson - 10954877</li>
-  <li>vintageparasite -10972448</li>
-  <li>Martin-Amoah - 10980029</li>
-  <li>Ameyyaw - 10973161</li>
-  <li> Kveonn - 10953117</li>
-  <li>Bright312 - 10973283</li>
-  <li>sfodofe - 10972364</li>
-  
-</ol>
-
-<h2>Clone the repository</h2>
-`kdkdkd`
-  
+1. FelixAshong - 10961725
+2. ayyesu - 10969867
+3. underagee - 10965214
+4. StanleyHinson - 10954877
+5. vintageparasite - 10972448
+6. Martin-Amoah - 10980029
+7. Ameyyaw - 10973161
+8. Kveonn - 10953117
+9. Bright312 - 10973283
+10. sfodofe - 10972364
 
 
 
