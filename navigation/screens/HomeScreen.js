@@ -28,6 +28,9 @@ const HomeScreen = () => {
 };
 
 const styles = StyleSheet.create({
+    headColor:{
+        color: '#3234a8'
+    },
     container: {
         flex: 1,
     },
