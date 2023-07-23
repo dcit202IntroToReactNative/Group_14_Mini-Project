@@ -1,5 +1,7 @@
 import React, {useState} from 'react';
 import {Picker} from '@react-native-picker/picker';
+import Toast from 'react-native-toast-message';
+import {ToastContainer} from 'react-native-toast-message';
 import DatePicker from 'react-native-modern-datepicker';
 import {
     View,
@@ -8,11 +10,11 @@ import {
     TextInput,
     Button,
     ToastAndroid,
+    Platform,
 } from 'react-native';
 
 const AppointmentsScreen = () => {
     const [doctorName, setDoctorName] = useState('');
-    const [time, setTime] = useState('');
     const [selectedDate, setSelectedDate] = useState('');
     const [email, setEmail] = useState('');
     const [phoneNumber, setPhoneNumber] = useState('');
@@ -22,24 +24,42 @@ const AppointmentsScreen = () => {
         if (
             patientName.trim() === '' ||
             doctorName.trim() === '' ||
-            time.trim() === '' ||
             email.trim() === '' ||
             phoneNumber.trim() === ''
         ) {
-            ToastAndroid.show('All fields are required!', ToastAndroid.SHORT);
+            if (Platform.OS === 'android') {
+                ToastAndroid.show(
+                    'All fields are required!',
+                    ToastAndroid.SHORT,
+                );
+            } else {
+                Toast.show({
+                    type: 'error',
+                    text1: 'All fields are required!',
+                    position: 'bottom',
+                    visibilityTime: 2000,
+                });
+            }
         } else {
-            ToastAndroid.show(
-                'Appointment submitted successfully',
-                ToastAndroid.SHORT,
-            );
+            if (Platform.OS === 'android') {
+                ToastAndroid.show(
+                    'Appointment submitted successfully',
+                    ToastAndroid.SHORT,
+                );
+            } else {
+                Toast.show({
+                    type: 'success',
+                    text1: 'Appointment submitted successfully',
+                    position: 'bottom',
+                    visibilityTime: 2000,
+                });
+            }
             clearForm();
         }
     };
 
     const clearForm = () => {
         setDoctorName('');
-        setTime('');
-        setDate('');
         setEmail('');
         setPhoneNumber('');
         setPatientName('');
@@ -114,7 +134,7 @@ const AppointmentsScreen = () => {
                 <Text
                     style={{fontSize: 15, fontWeight: 'bold', marginBottom: 8}}
                 >
-                    Date
+                    Date & Time
                 </Text>
                 <DatePicker
                     onSelectedChange={(date) => setSelectedDate(date)}
