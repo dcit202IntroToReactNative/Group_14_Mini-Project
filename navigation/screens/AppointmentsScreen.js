@@ -153,6 +153,7 @@ const AppointmentsScreen = () => {
                         borderColor: '#5D4037',
                         minHeight: 50,
                         marginBottom: 28,
+                        borderRadius: 10,
                         paddingHorizontal: 12,
                     }}
                 />
