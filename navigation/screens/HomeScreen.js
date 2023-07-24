@@ -1,4 +1,35 @@
+import React from 'react';
+import {View, Text, StyleSheet, ImageBackground} from 'react-native';
 
+const HomeScreen = () => {
+    return (
+        <View style={styles.container}>
+            <ImageBackground
+                source={require('../../assets/healthbg.png')}
+                style={styles.backgroundImage}
+                resizeMode='cover'
+            >
+                <View style={styles.contentContainer}>
+                    <Text style={styles.hospitalName}>
+                        Welcome to{' '}
+                        <Text style={styles.headColor}>~Clinics</Text>{' '}
+                    </Text>
+                    <Text style={styles.achievementTitle}>Achievements</Text>
+                    <Text style={styles.achievementText}>
+                        **"Top-Rated Hospital: Exceptional Patient Care Award Winner"**
+                        Recognized for its unparalleled commitment to patient well-being, cutting-edge medical advancements,
+                        and outstanding satisfaction rates. Congratulations to [Hospital Name] 
+                        for setting a new standard of excellence in healthcare.
+                    </Text>
+                    <Text style={styles.goalTitle}>Goals</Text>
+                    <Text style={styles.goalText}>
+                        **"To Reduce Hospital-Acquired Infections by 30% and Enhance Patient Safety through Continuous Quality Improvement."**.
+                    </Text>
+                </View>
+            </ImageBackground>
+        </View>
+    );
+};
 
 const styles = StyleSheet.create({
     headColor: {
