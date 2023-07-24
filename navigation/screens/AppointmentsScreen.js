@@ -1,7 +1,6 @@
 import React, {useState} from 'react';
 import {Picker} from '@react-native-picker/picker';
 import Toast from 'react-native-toast-message';
-import {ToastContainer} from 'react-native-toast-message';
 import DatePicker from 'react-native-modern-datepicker';
 import {
     View,
@@ -9,6 +8,7 @@ import {
     Text,
     TextInput,
     Button,
+    Alert,
     ToastAndroid,
     Platform,
 } from 'react-native';
@@ -33,12 +33,9 @@ const AppointmentsScreen = () => {
                     ToastAndroid.SHORT,
                 );
             } else {
-                Toast.show({
-                    type: 'error',
-                    text1: 'All fields are required!',
-                    position: 'bottom',
-                    visibilityTime: 2000,
-                });
+                Alert.alert('Appointment Submission', 'Failed', [
+                    {text: 'OK', onPress: () => console.log('OK Pressed')},
+                ]);
             }
         } else {
             if (Platform.OS === 'android') {
@@ -47,12 +44,9 @@ const AppointmentsScreen = () => {
                     ToastAndroid.SHORT,
                 );
             } else {
-                Toast.show({
-                    type: 'success',
-                    text1: 'Appointment submitted successfully',
-                    position: 'bottom',
-                    visibilityTime: 2000,
-                });
+                Alert.alert('Appointment Submission', 'Success', [
+                    {text: 'OK', onPress: () => console.log('OK Pressed')},
+                ]);
             }
             clearForm();
         }
