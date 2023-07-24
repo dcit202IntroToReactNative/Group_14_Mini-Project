@@ -10,7 +10,10 @@ const HomeScreen = () => {
                 resizeMode='cover'
             >
                 <View style={styles.contentContainer}>
-                    <Text style={styles.hospitalName}>Welcome to <Text style={styles.headColor}>~Clinics</Text> </Text>
+                    <Text style={styles.hospitalName}>
+                        Welcome to{' '}
+                        <Text style={styles.headColor}>~Clinics</Text>{' '}
+                    </Text>
                     <Text style={styles.achievementTitle}>Achievements</Text>
                     <Text style={styles.achievementText}>
                         Lorem ipsum dolor sit amet, consectetur adipiscing elit.
@@ -28,8 +31,8 @@ const HomeScreen = () => {
 };
 
 const styles = StyleSheet.create({
-    headColor:{
-        color: '#3234a8'
+    headColor: {
+        color: '#039dfc',
     },
     container: {
         flex: 1,
