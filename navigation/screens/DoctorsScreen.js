@@ -9,30 +9,35 @@ const doctorsData = [
         position: 'Cardiologist',
         profilePicture: require('../../assets/doctor1.png'),
     },
+    
     {
         id: '2',
         name: 'Dr. Felix Ashong',
         position: 'Pediatrician',
         profilePicture: require('../../assets/doctor2.jpeg'),
     },
+    
     {
         id: '3',
         name: 'Dr. Bright Quaye',
         position: 'Dermatologist',
         profilePicture: require('../../assets/doctor3.jpeg'),
     },
+    
     {
         id: '4',
         name: 'Dr. Samuel Osei Boakye Junior',
         positions: 'Anesthesiology',
         profilePicture: require('../../assets/doctor4.jpg'),
     },
+    
     {
         id: '5',
         name: 'Dr. Randy Adu-Ameyaw',
         position: 'Psychiatry',
         profilePicture: require('../../assets/doctor5.jpg'),
     },
+    
     {
         id: '6',
         name: 'Dr. Martin Amoah',
@@ -46,6 +51,7 @@ const doctorsData = [
         position: 'Dentist',
         profilePicture: require('../../assets/doctor3.jpeg'),
     },
+    
 ];
 
 const DoctorsScreen = () => {
@@ -55,6 +61,7 @@ const DoctorsScreen = () => {
             position={item.position}
             profilePicture={item.profilePicture}
         />
+
     );
 
     return (
@@ -64,6 +71,7 @@ const DoctorsScreen = () => {
                 renderItem={renderDoctorCard}
                 keyExtractor={(item) => item.id}
             />
+                    
         </View>
     );
 };
@@ -74,6 +82,7 @@ const styles = StyleSheet.create({
         padding: 16,
         backgroundColor: '#F5F5F5',
     },
+    
 });
 
 export default DoctorsScreen;
