@@ -61,4 +61,3 @@ The Clinics app offers a user-friendly interface, allowing users to navigate eff
 
 
 
-
