@@ -12,7 +12,6 @@ const ContactScreen = () => {
     const handleEmail = () => {
         Linking.openURL(`mailto:${emailAddress}`);
     };
-
     return (
         <View style={styles.container}>
             <Text style={styles.messageText}>
