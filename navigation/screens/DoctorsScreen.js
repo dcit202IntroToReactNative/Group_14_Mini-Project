@@ -39,6 +39,13 @@ const doctorsData = [
         position: 'Neurologist',
         profilePicture: require('../../assets/doctor6.jpg'),
     },
+
+     {
+        id: '3',
+        name: 'Dr. Samuella Frimpong',
+        position: 'Dentist',
+        profilePicture: require('../../assets/doctor3.jpeg'),
+    },
 ];
 
 const DoctorsScreen = () => {
