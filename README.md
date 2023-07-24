@@ -13,7 +13,7 @@ The Clinics app offers a user-friendly interface, allowing users to navigate eff
 
 ## Project Features 🔧🔗
 - [x] Appointment Booking
-- [x] ToastAndroid Display for successful booking and errors
+- [x] Alert Message Display(Android & IOS) for successful booking and errors
 - [x] Component Navigation
 - [x] Linking module for calling and sending emails explicitly
 
