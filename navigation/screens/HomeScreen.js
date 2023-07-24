@@ -23,8 +23,7 @@ const HomeScreen = () => {
                     </Text>
                     <Text style={styles.goalTitle}>Goals</Text>
                     <Text style={styles.goalText}>
-                        Suspendisse potenti. Proin lacinia metus sed sapien
-                        gravida, vel facilisis purus facilisis.
+                        **"To Reduce Hospital-Acquired Infections by 30% and Enhance Patient Safety through Continuous Quality Improvement."**.
                     </Text>
                 </View>
             </ImageBackground>
