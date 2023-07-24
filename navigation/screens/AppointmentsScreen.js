@@ -32,7 +32,7 @@ const AppointmentsScreen = () => {
                     ToastAndroid.SHORT,
                 );
             } else {
-                Alert.alert('Appointment Submission', 'Failed', [
+                Alert.alert('Appointment Submission', 'Failed ⚠', [
                     {text: 'OK', onPress: () => console.log('OK Pressed')},
                 ]);
             }
