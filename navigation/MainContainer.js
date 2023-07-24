@@ -17,7 +17,9 @@ const servicesName = 'Services';
 const contactName = 'Contact';
 const appointmentsName = 'Appointments';
 
+
 const Tab = createBottomTabNavigator();
+
 
 function MainContainer() {
     return (
