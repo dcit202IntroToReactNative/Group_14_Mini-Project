@@ -1,6 +1,5 @@
 import React, {useState} from 'react';
 import {Picker} from '@react-native-picker/picker';
-import Toast from 'react-native-toast-message';
 import DatePicker from 'react-native-modern-datepicker';
 import {
     View,
@@ -73,7 +72,7 @@ const AppointmentsScreen = () => {
                     placeholder='Your name'
                     style={{
                         borderWidth: 1,
-                        borderColor: '#5D4037',
+                        borderColor: '#039dfc',
                         minHeight: 48,
                         marginBottom: 8,
                         borderRadius: 10,
@@ -94,7 +93,7 @@ const AppointmentsScreen = () => {
                     onValueChange={(itemValue) => setDoctorName(itemValue)}
                     style={{
                         borderWidth: 1,
-                        borderColor: '#5D4037',
+                        borderColor: '#039dfc',
                         marginBottom: 8,
                         borderRadius: 10,
                         padding: 8,
@@ -145,7 +144,7 @@ const AppointmentsScreen = () => {
                     keyboardType='email-address'
                     style={{
                         borderWidth: 1,
-                        borderColor: '#808080',
+                        borderColor: '#039dfc',
                         minHeight: 50,
                         marginBottom: 8,
                         borderRadius: 10,
@@ -164,7 +163,7 @@ const AppointmentsScreen = () => {
                     keyboardType='numeric'
                     style={{
                         borderWidth: 1,
-                        borderColor: '#5D4037',
+                        borderColor: '#039dfc',
                         minHeight: 50,
                         marginBottom: 28,
                         borderRadius: 10,
