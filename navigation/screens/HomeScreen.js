@@ -16,8 +16,10 @@ const HomeScreen = () => {
                     </Text>
                     <Text style={styles.achievementTitle}>Achievements</Text>
                     <Text style={styles.achievementText}>
-                        Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-                        Nulla eu elit et diam aliquet consectetur.
+                        **"Top-Rated Hospital: Exceptional Patient Care Award Winner"**
+                        Recognized for its unparalleled commitment to patient well-being, cutting-edge medical advancements,
+                        and outstanding satisfaction rates. Congratulations to [Hospital Name] 
+                        for setting a new standard of excellence in healthcare.
                     </Text>
                     <Text style={styles.goalTitle}>Goals</Text>
                     <Text style={styles.goalText}>
