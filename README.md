@@ -28,7 +28,7 @@ The Clinics app offers a user-friendly interface, allowing users to navigate eff
 | underagee     | Code Inspector                                      | 
 | Kveonn        | DoctorsScreen Component                             |
 | StanleyHinson | Project Documentation                               |
-| Ameyyaw       | Project Documentation                               |
+| Ameyyaw       | Home Screen & Project Documentation                 |
 | vintageparasite | Project Documentation                             |
 | sfodofe       | Project Documentation                               |
 
