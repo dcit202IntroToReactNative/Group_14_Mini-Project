@@ -43,7 +43,7 @@ const AppointmentsScreen = () => {
                     ToastAndroid.SHORT,
                 );
             } else {
-                Alert.alert('Appointment Submission', 'Success', [
+                Alert.alert('Appointment Submission', 'Success 👍', [
                     {text: 'OK', onPress: () => console.log('OK Pressed')},
                 ]);
             }
